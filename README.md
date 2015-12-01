@@ -5,3 +5,6 @@ Second major attempt to create a Heroku project (31-Oct-15).
 2. created a repository BEFORE starting with Heroku template
 3. will add/commit/push README.md and then restart Heroku Django template.
 4. Name will be SmartSafety, consistent with Repository name.
+
+Will use this environment to build initial proof of principle for early \
+warning for out of range lab values.
